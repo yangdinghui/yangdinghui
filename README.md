@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangdinghui&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Profiles
+![Profiles](https://raw.githubusercontent.com/yangdinghui/yangdinghui/refs/heads/output/github-contribution-grid-snake.svg)
